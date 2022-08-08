@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/***********
+NAVBAR
+***********/
+
+.navbar {
+    padding: 12px;
+    background-color: #712cf9; 
+    color: white;
+    
+}
+
+/************
+MAIN
+************/
+.npm-install1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 12px 20px;
+    background-color: #f8f9fa;
+}
+
+.include-one{
+    margin-bottom: 15px ;
+    padding: 12px 20px;
+    background-color: #f8f9fa;
+
+}
+
+.include-two{
+    padding: 12px 20px;
+    background-color: #f8f9fa;
+}
+
+.c1{
+    color: #565c64;
+}
+
+.c{
+    color: #565c64;
+}
+
+.k{
+    color: #a71d5d;
+}
+
+.nv{
+    color: #bc4c00;
+}
+
+.nt{
+    color: #bc4c00;
+}
+
+.na{
+    color: #795da3;
+}
+
+.s2{
+    color: #183691;
+}
+
+.s{
+    color: #183691;
+}
+
+.masthead-notice {
+    background-color: #ffe484;
+    box-shadow: inset 0 -1px 1px rgba(var(--bs-body-color-rgb), 0.15),0 0.25rem 1.5rem rgba(var(--bs-body-bg-rgb), 0.75);
+}
+
+.d-block.my-1 {
+    margin-right: 5px;
+}
+
+.col-md-8.mx-auto.text-center {
+    margin-top: 47px;
+}
+
+#h1 {
+    font-size: 60px;
+}
+
+.lead.mb-4 {
+    font-size: 25px;
+}
+
+.btn.btn-primary.btn-lg{
+    background-color:#712cf9;
+    padding: 15px;
+    margin-right: 5px;
+}
+
+.rounded-3 {
+    border-radius: var(--bs-border-radius-lg);
+
+}
+.p-2 {
+    padding: 0.5rem;
+
+}
+.mb-2 {
+    margin-bottom: 0.5rem;
+}
+
+.me-2 {
+    margin-right: 0.5rem;
+}
+
+b, strong {
+    font-weight: bolder;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.bi.bi-code{
+    margin-top: 50px;
+    padding: 1rem;
+    width: 67px;
+    background-color: #c8c8fa;
+    color: #712cf9;
+    border-radius: 15px;
+}
+
+/**********
+GET STARTED
+**********/
+
+.code-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text-h2 {
+    font-size: 45px;
+}
+
+.text-h2-p {
+    font-size: 20px;
+}
+
+.link-text-h2 {
+    font-size: 20px;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+/********
+SECTION 1
+*********/
+
+.btn-clipboard{
+   border: none;
+   text-decoration: none;
+}
+
+.section1 {
+    margin-left: 15px;
+}
+
+
+.include-section {
+    margin-left: 1px;
+}
+
+.css-var {
+    margin-left: 10px;
+}
